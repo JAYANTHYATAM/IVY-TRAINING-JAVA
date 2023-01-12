@@ -1,5 +1,4 @@
-class Demo{
-    static int a = 10;
+class Demo{ static int a = 10;
     static void display()
     {
         System.out.println("Static Method");
