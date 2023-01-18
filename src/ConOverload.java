@@ -6,7 +6,7 @@ class O{
     }
     O (int a)
     {
-        System.out.println("Constructor arguments");
+        System.out.println("Constructor arguments") ;
     }
 }
 
